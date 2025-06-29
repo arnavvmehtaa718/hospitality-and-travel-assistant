@@ -54,7 +54,7 @@ The frontend is built with React, and the backend uses Node.js with Express and 
 
 ## Demo Video
 
-[Insert demo video link here]
+https://www.loom.com/share/d435480af7fa476b9ab03a0e76a16cc4
 
 ## Deployment
 
